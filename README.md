@@ -3,13 +3,13 @@ I'm **Elena**, an experienced **frontend developer** with a strong passion for 
 
 I get great inspiration from modern web design and I feel excitement when starting to work with a new design markup. ****I always have fun doing some especially challenging layout, implementing unusual effects or animation. 🌟
 
+⚡ Want to know more about me? Check out my [personal page](https://yeivanova.github.io/personal-page/).
+
 ## 👩🏻‍💻 **The technologies I use most often:**
 JavaScript, TypeScript, React JS, Redux, HTML, CSS, LESS/SCSS, Jest, Gulp, Webpack, Git, Figma.
 
 ## 🌱 **I’m currently learning:**
 Next.js, D3.js, Tree.js
-
-# ⚡ Want to know more about me? Check out my [personal page](https://yeivanova.github.io/personal-page/).
 
 ## ✨ **Shared interests we might have:**
 Coding, cats, books, british TV shows, food, quizzes
